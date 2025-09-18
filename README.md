@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm RiiCODE  
 
-<!--
-**RiiiCODE/RiiiCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Web Developer | Tech Enthusiast | Student**  
 
-Here are some ideas to get you started:
+I'm a 15-year-old passionate about **coding** and **web development**.  
+My goal is to create useful digital products and keep growing into a skilled **Fullstack Developer** 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me  
+- 🔭 Currently learning **JavaScript, Node.js, and Next.js**  
+- 🌱 Exploring **modern web development** & **API backend**  
+- 🎯 Future Goal: Become a **Fullstack Web Developer**  
+- ⚡ Fun fact: Coding with music makes me more focused 🎧  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Languages & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,react,nextjs,nodejs,express" />
+</p>
+
+### Databases & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,vercel,docker,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riiicode&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riiicode&layout=compact&theme=radical)  
+
+---
+
+## 🔗 Connect With Me  
+- 🌐 [Website](https://rcwebsite.my.id)  
+- 📷 [Instagram](https://instagram.com/fakhriigt)   
+
+---
+
+✨ *"Coding is not just about writing code, it's about creating something meaningful for others."* ✨
