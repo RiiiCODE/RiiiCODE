@@ -30,8 +30,7 @@ My goal is to create useful digital products and keep growing into a skilled **F
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riiicode&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riiicode&layout=compact&theme=radical)  
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=riiicode&theme=midnight-purple&hide_border=false)  
 
 ---
 
